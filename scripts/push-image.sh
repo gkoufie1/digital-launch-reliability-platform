@@ -5,7 +5,7 @@ set -euo pipefail
 
 cd "$(dirname "$0")/.."
 
-if [ -n "$(git status --porcelain)" ]; then
+if [[ -n "$(git status --porcelain)" ]]; then
   echo "Working tree has uncommitted changes; commit first so the tag matches the code." >&2
   exit 1
 fi
