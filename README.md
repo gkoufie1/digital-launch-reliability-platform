@@ -1,6 +1,6 @@
 # Digital Launch Reliability Platform
 
-Independent Nintendo-inspired DevOps portfolio project. **Not affiliated with Nintendo.** The fictional launch content is original.
+
 
 ## Current scope: Phase 1 / Step 1
 
