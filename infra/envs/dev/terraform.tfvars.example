@@ -1,0 +1,3 @@
+# Local settings for this environment. Copy to terraform.tfvars (git-ignored).
+alarm_email = "you@example.com"
+# allowed_cidrs = ["203.0.113.10/32"]   # restrict the ALB to your IP

@@ -7,3 +7,9 @@ node_modules/
 *.tfstate.*
 .DS_Store
 *.tsbuildinfo
+
+# Terraform
+*.tfplan
+infra/envs/*/backend.hcl
+*.tfvars
+!*.tfvars.example
