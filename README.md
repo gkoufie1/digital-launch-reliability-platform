@@ -2,8 +2,6 @@
 
 [![CI](https://github.com/gkoufie1/digital-launch-reliability-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/gkoufie1/digital-launch-reliability-platform/actions/workflows/ci.yml)
 
-Independent Nintendo-inspired DevOps portfolio project. **Not affiliated with Nintendo.** The fictional launch content is original.
-
 ## Current scope: Phase 1 / Step 1
 
 This starter contains a working Next.js/TypeScript application, a `/api/health` endpoint, a multi-stage Dockerfile, and a GitHub Actions CI pipeline. **AWS resources, Terraform, continuous deployment, Sentry, and Fastly are planned but not implemented yet.**
