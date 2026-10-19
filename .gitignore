@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env*
+!.env.example
+.terraform/
+*.tfstate
+*.tfstate.*
+.DS_Store
+*.tsbuildinfo
